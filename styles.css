@@ -1,0 +1,28 @@
+body {
+    margin-top: 50px;
+    height: 100vh;
+    background-color: rgb(212, 201, 187);
+}
+
+section {
+   display: flex;
+   justify-content: center;
+}
+
+.box1 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(25, 122, 154);
+    padding-top: 50px;
+    margin-right: 50px;
+    border-bottom: solid 20px white;
+    border-left: solid 20px white;
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    border: solid 10px white;
+    padding-left: 50px;
+}
